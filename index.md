@@ -14,7 +14,7 @@ humantime: "09:00 to 17:00 (UTC + 1)"
 startdate: 2026-06-23
 enddate: 2026-06-23
 instructor: ["Carol Booth","Dr  Robin Wardle"]
-helper: ["Dr Richard Howey","Frank Van Laarhoven"]
+helper: ["Dr Richard Howey","Frank Van Laarhoven","Dr Antony Rose"]
 email: ["training.researchcomputing@newcastle.ac.uk"]
 collaborative_notes: https://hackmd.io/@RSETeam/2026-06-23-NCL/edit
 eventbrite: 
